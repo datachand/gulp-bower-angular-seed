@@ -1,0 +1,15 @@
+{
+  "name": "gulp-bower-angular-seed",
+  "version": "0.0.0",
+  "homepage": "https://github.com/datachand/gulp-bower-angular-seed",
+  "authors": [
+    "Data Chand <data.chand@gmail.com>"
+  ],
+  "license": "MPL 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libraries"
+  ]
+}
